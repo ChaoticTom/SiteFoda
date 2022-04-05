@@ -1,1 +1,1 @@
-# rataria
+# Blog temporário.
